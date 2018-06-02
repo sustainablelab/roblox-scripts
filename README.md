@@ -1,5 +1,14 @@
 # Develop Roblox scripts
 
+## Table of contents
+- [Repo links](#markdown-header-repo-links)
+- [Lua in Roblox](#markdown-header-lua-in-roblox)
+- [What is Lua](#markdown-header-what-is-lua)
+- [Lua syntax](#markdown-header-lua-syntax)
+- [References](#markdown-header-references)
+
+---e-n-d---
+
 ## Lua in Roblox
 - open *Roblox Studio*
     - The top of the IDE has:
@@ -57,3 +66,10 @@ Roblox scripting tutorial:
 
 http://wiki.roblox.com/index.php?title=Scripting_Book#Chapter_1
 
+# Repo links
+Link to this repo: https://github.com/sustainablelab/roblox-scripts
+
+Clone this repo:
+```bash
+https://github.com/sustainablelab/roblox-scripts.git
+```
