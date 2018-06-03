@@ -274,6 +274,13 @@ Synchronizing is copying between the filesystem and *Roblox Studio*:
 - contents of top-level items:
     - click *Sync In* to bring these files in
 
+How do I run the script? It has something to do with TestEZ module
+*TestBoostrap*. I think I have to first learn some basic scripting in the Roblox
+Studio environment to see how to associate this with a child of the game, and
+associate the script and its `.spec.lua` script with that child, and then
+running the game probably runs the test. So I guess I have to go through the
+Roblox scripting tutorials first.
+
 ## What is Lua
 This one sentence sold me:
 
