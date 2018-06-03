@@ -2,7 +2,11 @@
 
 ## Table of contents
 - [Repo links](#markdown-header-repo-links)
-- [Lua in Roblox](#markdown-header-lua-in-roblox)
+- [Develop a Roblox Lua script](#markdown-header-develop-a-roblox-lua-script)
+- [First try](#markdown-header-first-try)
+- [Install Rojo](#markdown-header-install-rojo)
+- [Setup a project using Rojo server](#markdown-header-setup-a-project-using-rojo-server)
+- [Use Rojo to unit test](#markdown-header-use-rojo-to-unit-test)
 - [What is Lua](#markdown-header-what-is-lua)
 - [Lua syntax](#markdown-header-lua-syntax)
 - [References](#markdown-header-references)
