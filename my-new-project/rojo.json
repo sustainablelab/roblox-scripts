@@ -1,0 +1,14 @@
+{
+  "name": "my-new-project",
+  "servePort": 8000,
+  "partitions": {
+    "src": {
+      "path": "src",
+      "target": "ReplicatedStorage.Project"
+    },
+    "TestEZ": {
+      "path": "TestEZ",
+      "target": "TestEZ.Project"
+    }
+  }
+}
