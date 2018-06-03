@@ -197,12 +197,13 @@ There are two *Rojo* modules that caught my attention:
 ### Use Rojo to unit test
 #### Context
 There are three contexts for unit testing described in the [TestEZ GitHub
-repo][testez].
-[testez]: https://github.com/Roblox/testez/
+repo][testez-github].
 
 - Installation Script (Roblox Studio)
 - Filesystem (Roblox)
 - Lemur (CI Systems)
+
+[testez-github]: https://github.com/Roblox/testez/
 
 Reading the brief descriptions of each, it seems:
 
@@ -318,6 +319,7 @@ https://www.lua.org/pil/1.3.html
 - in particular this link:
     - https://wiki.roblox.com/index.php?title=Intro_to_Plugins
 ### Roblox scripting tutorials
+- https://github.com/Roblox/testez/#writing-tests
 - https://wiki.roblox.com/index.php?title=Intro_to_Scripting
 - https://wiki.roblox.com/index.php?title=Creating_a_Script
 - https://wiki.roblox.com/index.php?title=Creating_Parts_via_Code
